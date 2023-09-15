@@ -2,3 +2,11 @@ requests==2.26.0
 telebot==0.0.5
 flask==2.2.2
 bs4==0.0.1
+colorama==0.4.6
+time==0.3.0
+string==1.4
+base64==1.3.0
+BeautifulSoup==4.12.2
+Fore==0.1
+os==0.1
+re==2.2
