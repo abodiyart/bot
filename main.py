@@ -9,8 +9,8 @@ from telebot import *
 from GATEAU import Tele
 from colorama import Fore
 sto = {"stop":False}
-token = "6209431758:AAHNVgGOdq0F2sW6TwzwaQO9P9BcJTrnjPw" 
-id =  1076515841
+token = "2127774305:AAGMgeytMWlZAeAjZop7VVbYp8voMF5KpeQ" 
+id =  1490490774
 ph = "https://j.top4top.io/m_2807oa5811.mp4"
 bot=telebot.TeleBot(token,parse_mode="HTML")
 @bot.message_handler(commands=["stop"])
